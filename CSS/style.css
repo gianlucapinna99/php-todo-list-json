@@ -1,0 +1,20 @@
+body {
+    background-color: #001632;
+}
+
+h1 {
+    color: #646e77;
+    text-align: center;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+li {
+    list-style: none;
+}
+
+.btn .btn-primary {
+    background-color: red;
+}
